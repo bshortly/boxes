@@ -1,0 +1,21 @@
+*, *:before, *:after: {
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #fff
+}
+
+.box {
+	background-color: red;
+	color:#fff;
+	width: 100px;
+	
+	padding: 20px 10px;
+	border-width:5px;
+	border-style: solid; 
+	border-color: black;
+}
+
+
+
